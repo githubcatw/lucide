@@ -1,0 +1,22 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "it-is-not",
+    "ericfennis",
+    "karsa-mistmere",
+    "githubcatw"
+  ],
+  "tags": [
+    "movie",
+    "film",
+    "video",
+    "camera",
+    "tv",
+    "editing",
+    "edit",
+    "television"
+  ],
+  "categories": [
+    "multimedia"
+  ]
+}
